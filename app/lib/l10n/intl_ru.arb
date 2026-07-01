@@ -1,0 +1,14 @@
+{
+  "@@locale": "ru",
+  "lang": "Русский",
+  "appTitle": "Записывай время",
+  "@appTitle": {
+    "description": "Time Focus - отслеживайте и анализируйте время, потраченное на выполнение задач."
+  },
+  "copyright": "StudyWay.life",
+  "@copyright": {
+    "description": "Copyright text"
+  },
+
+  "end": "---"
+}

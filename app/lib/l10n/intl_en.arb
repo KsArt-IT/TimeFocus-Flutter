@@ -1,0 +1,14 @@
+{
+  "@@locale": "en",
+  "lang": "English",
+  "appTitle": "Time Focus",
+  "@appTitle": {
+    "description": "Time Focus - Monitor and analyze your time spent on tasks."
+  },
+  "copyright": "StudyWay.life",
+  "@copyright": {
+    "description": "Copyright text"
+  },
+
+  "end": "---"
+}
