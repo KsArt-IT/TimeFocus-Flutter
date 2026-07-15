@@ -31,7 +31,7 @@ targets:
       drift_dev:
         enabled: true
         generate_for:
-          - lib/**/*.darttargets:
+          - lib/**/*.dart
 
       flutter_gen_runner:
         options:
@@ -47,7 +47,3 @@ global_options:
   freezed:
     runs_before:
       - json_serializable
-      - retrofit_generator
-  json_serializable:
-    runs_before:
-      - retrofit_generator
