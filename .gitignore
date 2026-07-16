@@ -5,11 +5,12 @@
 .idea/
 
 # VS Code
+.project/
 .vscode/
 .cursor/
 .kiro/
 .agent/
-.project/
+.claude/
 .cursorrules
 .cursorrules.md
 CLAUDE.md
