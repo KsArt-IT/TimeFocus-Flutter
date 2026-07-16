@@ -89,19 +89,3 @@ flutter:
 
 flutter_gen:
   line_length: 100
-
-flutter_native_splash:
-  android: true
-  image: assets/app/splash.png
-  image_dark: assets/app/splash.png
-  color: "#ffffff"
-  color_dark: "#000000"
-  android_12:
-    image: assets/app/splash.png
-    image_dark: assets/app/splash.png
-    color: "#ffffff"
-    color_dark: "#000000"
-  ios: true
-  web: false
-  windows: false
-  macos: false
